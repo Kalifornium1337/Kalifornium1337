@@ -27,7 +27,6 @@ I am an IT Consultant with 4 years of experience, graduating with a bachelor's i
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
